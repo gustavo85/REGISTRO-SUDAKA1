@@ -1,0 +1,3 @@
+Usuario: nicobelic
+Proceso: cheatengine-x86_64-sse4-avx2.exe
+Fecha: 2026-03-26T14:25:11.889185
