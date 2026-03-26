@@ -1,0 +1,4 @@
+Promedio latencia subida: 307 ms - INJUGABLE
+Muestras subida: 307, 306, 307, 307, 307, 172, 308, 304, 308, 306
+Promedio latencia bajada: 107 ms - ALTISIMA!!!
+Muestras bajada: 206, 103, 103, 102, 102, 103, 135, 105, 103, 102
