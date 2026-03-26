@@ -1,0 +1,3 @@
+Usuario: lucasmanzi6
+Proceso: steamwebhelper.exe
+Fecha: 2026-03-26T01:46:53.769620
