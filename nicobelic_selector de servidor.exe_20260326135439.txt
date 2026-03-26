@@ -1,0 +1,3 @@
+Usuario: nicobelic
+Proceso: selector de servidor.exe
+Fecha: 2026-03-26T13:54:39.315662
